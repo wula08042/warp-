@@ -9,7 +9,7 @@ import sys
 os.system("title WARP-PLUS-CLOUDFLARE By ALIILAPRO")
 os.system('cls' if os.name == 'nt' else 'clear')
 print('Getting WARP+ Traffic on Github Actions')
-referrer = os.environ["DEVICEID"]
+referrer = os.environ["DEVICEID"]#asaxzXz
 def genString(stringLength):
 	try:
 		letters = string.ascii_letters + string.digits
